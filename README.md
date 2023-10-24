@@ -55,7 +55,7 @@ Insira no mínimo 20 dados em cada tabela criada para o exercício
     * Resultado: ![ExercicioRelatorio1_4_2_1.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_4_2_1.csv)   
 * Desenvolva uma stored procedure para calcular o total de um pedido com base nos produtos incluídos
     * Implementação da procedure: ![Exercicio1_4_3.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_4_3.sql)
-    * Execução da procedure: ![Exercicio1_4_3_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_4_1_3.sql)
+    * Execução da procedure: ![Exercicio1_4_3_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_4_3_1.sql)
     * Resultado: ![ExercicioRelatorio1_4_3_1.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_4_3_1.csv) 
 
 --- 
