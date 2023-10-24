@@ -1,0 +1,21 @@
+cli_id,cli_nome,cli_endereco_entrega,cli_email,cli_telefone
+1,"Ana Silva","Rua das Flores, 123",ana@email.com,123-456-7890
+2,"Luís Santos","Avenida Principal, 456",luis@email.com,234-567-8901
+3,"Marta Almeida","Praça Central, 789",marta@email.com,345-678-9012
+4,"Pedro Pereira","Travessa da Esquina, 101",pedro@email.com,456-789-0123
+5,"Sofia Gomes","Rua das Árvores, 202",sofia@email.com,567-890-1234
+6,"Carlos Rodrigues","Avenida da Praia, 303",carlos@email.com,678-901-2345
+7,"Isabel Sousa","Praça da Cidade, 404",isabel@email.com,789-012-3456
+8,"Rui Ferreira","Rua da Montanha, 505",rui@email.com,890-123-4567
+9,"Mariana Oliveira","Avenida do Parque, 606",mariana@email.com,901-234-5678
+10,"João Costa","Travessa do Lago, 707",joao@email.com,012-345-6789
+11,"Beatriz Ramos","Rua do Campo, 808",beatriz@email.com,123-456-7890
+12,"Gustavo Fernandes","Avenida da Colina, 909",gustavo@email.com,234-567-8901
+13,"Patrícia Silva","Praça da Floresta, 1010",patricia@email.com,345-678-9012
+14,"André Alves","Rua do Riacho, 1111",andre@email.com,456-789-0123
+15,"Lúcia Pereira","Avenida do Sol, 1212",lucia@email.com,567-890-1234
+16,"Paulo Ribeiro","Travessa da Lua, 1313",paulo@email.com,678-901-2345
+17,"Catarina Santos","Praça das Estrelas, 1414",catarina@email.com,789-012-3456
+18,"António Lima","Rua das Montanhas, 1515",antonio@email.com,890-123-4567
+19,"Vera Moreira","Avenida dos Campos, 1616",vera@email.com,901-234-5678
+20,"Ricardo Gomes","Praça do Centro, 1717",ricardo@email.com,012-345-6789

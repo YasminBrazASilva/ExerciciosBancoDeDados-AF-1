@@ -1,0 +1,26 @@
+pdd_id,pdd_data,pdd_status,pdd_cli_id
+3,2023-01-01,Entregue,1
+4,2023-01-15,Entregue,11
+5,2023-01-22,Entregue,1
+6,2023-02-15,Cancelado,2
+7,2023-02-02,Entregue,12
+8,2023-02-10,Entregue,2
+9,2023-03-10,Entregue,3
+10,2023-03-12,Cancelado,3
+11,2023-03-18,Reembolsado,13
+12,2023-04-05,Entregue,4
+13,2023-04-22,Entregue,14
+14,2023-04-28,Entregue,4
+15,2023-05-06,Entregue,15
+16,2023-05-16,Cancelado,5
+17,2023-05-20,Entregue,5
+18,2023-06-12,Entregue,6
+19,2023-06-29,Reembolsado,16
+20,2023-07-05,Entregue,17
+21,2023-07-30,Cancelado,7
+22,2023-08-08,Cancelado,8
+23,2023-08-20,Cancelado,18
+24,2023-09-03,Entregue,19
+25,2023-09-25,Enviado,9
+26,2023-10-10,"Em processamento",10
+27,2023-10-28,"Em processamento",20
