@@ -46,23 +46,23 @@ Insira no mínimo 20 dados em cada tabela criada para o exercício
 
 ### ETAPA 4: CRIAÇÃO DAS PROCEDURES
 * Implemente uma stored procedure para permitir que os clientes adicionem produtos ao carrinho de compras
-    * Implementação da procedure: ![Exercicio1_3_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_3_1.sql)
-    * Execução da procedure: ![Exercicio1_3_1_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_3_1_1.sql)
-    * Resultado: ![ExercicioRelatorio1_3_1_1.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_3_1_1.csv)
+    * Implementação da procedure: ![Exercicio1_4_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_4_1.sql)
+    * Execução da procedure: ![Exercicio1_4_1_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_4_1_1.sql)
+    * Resultado: ![ExercicioRelatorio1_4_1_1.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_4_1_1.csv)
 * Crie uma stored procedure para processar pedidos, atualizando o estoque de produtos e registrando os detalhes do pedido
-    * Implementação da procedure: ![Exercicio1_3_2.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_3_2.sql)
-    * Execução da procedure: ![Exercicio1_3_2_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_3_2_1.sql)
-    * Resultado: ![ExercicioRelatorio1_3_2_1.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_3_2_1.csv)   
+    * Implementação da procedure: ![Exercicio1_4_2.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_4_2.sql)
+    * Execução da procedure: ![Exercicio1_4_2_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_4_2_1.sql)
+    * Resultado: ![ExercicioRelatorio1_4_2_1.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_4_2_1.csv)   
 * Desenvolva uma stored procedure para calcular o total de um pedido com base nos produtos incluídos
-    * Implementação da procedure: ![Exercicio1_3_3.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_3_3.sql)
-    * Execução da procedure: ![Exercicio1_3_3_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_3_1_3.sql)
-    * Resultado: ![ExercicioRelatorio1_3_3_1.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_3_3_1.csv) 
+    * Implementação da procedure: ![Exercicio1_4_3.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_4_3.sql)
+    * Execução da procedure: ![Exercicio1_4_3_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_4_1_3.sql)
+    * Resultado: ![ExercicioRelatorio1_4_3_1.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_4_3_1.csv) 
 
 --- 
 
 ### ETAPA 5: CRIAÇÃO DAS VIEWS DERIVADAS
-* Crie uma view que mostre o histórico de pedidos de um cliente específico, incluindo os produtos incluídos em cada pedido: ![Exercicio1_4_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_4_1.sql)
-    * Resultado: ![ExercicioRelatorio1_4_1.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_4_1.csv) 
-* Implemente uma view que forneça uma lista de todos os produtos disponíveis, excluindo aqueles que estão esgotados: ![Exercicio1_4_2.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_4_2.sql)
-    * Resultado: ![ExercicioRelatorio1_4_2.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_4_2.csv)    
+* Crie uma view que mostre o histórico de pedidos de um cliente específico, incluindo os produtos incluídos em cada pedido: ![Exercicio1_5_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_5_1.sql)
+    * Resultado: ![ExercicioRelatorio1_5_1.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_5_1.csv) 
+* Implemente uma view que forneça uma lista de todos os produtos disponíveis, excluindo aqueles que estão esgotados: ![Exercicio1_5_2.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/Exercicio1_5_2.sql)
+    * Resultado: ![ExercicioRelatorio1_5_2.csv](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AF-1/blob/main/ExercicioRelatorio1_5_2.csv)    
 
