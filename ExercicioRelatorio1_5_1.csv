@@ -1,0 +1,6 @@
+cli_id,cli_nome,cli_endereco_entrega,cli_email,cli_telefone,pdd_id,pdd_data,pdd_status,pdd_cli_id,pdi_id,pdi_prd_qtd,pdi_pdd_id,pdi_prd_id,prd_id,prd_nome,prd_descricao,prd_preco,prd_qtd_estoque
+5,"Sofia Gomes","Rua das Árvores, 202",sofia@email.com,567-890-1234,16,2023-05-16,Cancelado,5,20,3,16,18,18,"Pasta de Amendoim Orgânica","Pasta de amendoim orgânica e natural, sem adição de açúcar",9.99,50
+5,"Sofia Gomes","Rua das Árvores, 202",sofia@email.com,567-890-1234,16,2023-05-16,Cancelado,5,21,3,16,6,6,"Salada Caesar","Salada de alface romana, croutons, queijo parmesão, peito de frango grelhado e molho Caesar",12.99,45
+5,"Sofia Gomes","Rua das Árvores, 202",sofia@email.com,567-890-1234,17,2023-05-20,Entregue,5,22,3,17,3,3,"Lasanha à Bolonhesa","Lasanha camadas de massa intercaladas com molho de carne à bolonhesa, queijo e molho branco",16.99,40
+5,"Sofia Gomes","Rua das Árvores, 202",sofia@email.com,567-890-1234,17,2023-05-20,Entregue,5,23,3,17,18,18,"Pasta de Amendoim Orgânica","Pasta de amendoim orgânica e natural, sem adição de açúcar",9.99,50
+5,"Sofia Gomes","Rua das Árvores, 202",sofia@email.com,567-890-1234,28,2023-10-24,"Em processamento",5,41,2,28,6,6,"Salada Caesar","Salada de alface romana, croutons, queijo parmesão, peito de frango grelhado e molho Caesar",12.99,45
