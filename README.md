@@ -1,7 +1,7 @@
 # ExerciciosBancoDeDados-AF-1
 Exercícios para AF da matéria de Banco de Dados do 2º semestre de ADS
 
-Você foi designado para criar um sistema de biblioteca. Aqui estão os detalhes adicionais:
+Você foi designado para criar um sistema de um comércio eletrônico. Aqui estão os detalhes adicionais:
 * Tabelas
   *  Produtos: armazene informações sobre produtos, como nome, descrição, preço e quantidade em estoque
   *  Pedidos: registre detalhes de pedidos, incluindo data, cliente e status
